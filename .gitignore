@@ -1,0 +1,7 @@
+*.o
+*.elf
+kernel
+isodir/
+.DS_Store
+*.swp
+*.swo
